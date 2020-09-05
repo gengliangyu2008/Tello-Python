@@ -6,10 +6,13 @@ delay 2
 left 150
 delay 2
 
-cw 90
+forward 150
 delay 2
 
-forward 150
+right 150
+delay 2
+
+back 150
 delay 2
 
 land
