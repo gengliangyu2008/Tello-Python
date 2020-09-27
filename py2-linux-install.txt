@@ -1,0 +1,5 @@
+1. libh264decoder.so, copy it to anaconda/evns/env_name/lib/python2.7/site-packages
+
+2. sudo apt install libswscale-dev libavcodec-dev libavutil-dev
+
+3. sudo apt-get install libboost-all-dev
